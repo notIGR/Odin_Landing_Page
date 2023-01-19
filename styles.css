@@ -1,4 +1,6 @@
-* {}
+* {
+    margin: 0px;
+}
 
 .top-logo {
     padding: 35px;
@@ -27,8 +29,36 @@ header {
     background: #1f2937;
 }
 
-.flex-box {}
+.flex-box {
+    background: #1f2937;
+    color: #e5e3eb;
+}
 
-.flex-box2 {}
+.flex-box2 {
+    background: white
+}
 
-.flex-box3 {}
+.quote {
+    background: #E5E7EB;
+}
+
+.flex-box3 {
+    background: white
+}
+
+.sign-up-box {
+    background: #3882f6;
+}
+
+button {
+    background: #3882f6;
+    color: #e5e3eb;
+    border-radius: 6px;
+    border-color: #e5e3eb;
+}
+
+footer {
+    background: #1f2937;
+    text-align: center;
+    color: #e5e3eb;
+}
