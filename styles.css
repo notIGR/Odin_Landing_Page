@@ -2,6 +2,12 @@
     margin: 0px;
 }
 
+h2 {
+    text-align: center;
+    margin: auto;
+    padding: 4rem;
+}
+
 .top-logo {
     padding: 35px;
     margin-right: auto;
@@ -35,19 +41,34 @@ header {
 }
 
 .flex-box2 {
-    background: white
+    background: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 3rem;
 }
 
 .quote {
+    display: flex;
     background: #E5E7EB;
+    justify-content: center;
+    padding: 25px;
 }
 
+
 .flex-box3 {
-    background: white
+    background: white;
+    padding: 6rem;
+}
+
+img {
+    height: 100px;
+    width: 100px;
 }
 
 .sign-up-box {
     background: #3882f6;
+    border-radius: 25px;
+    padding: 1rem;
 }
 
 button {
