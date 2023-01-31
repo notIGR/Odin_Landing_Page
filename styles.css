@@ -2,6 +2,10 @@
     margin: 0px;
 }
 
+.headimg {
+    padding-left: 1200px;
+}
+
 h2 {
     text-align: center;
     margin: auto;
@@ -11,11 +15,13 @@ h2 {
 .top-logo {
     padding: 35px;
     margin-right: auto;
-    color: #e5e7eb
+    color: #e5e7eb;
+    font-size: 48px;
 }
 
 ul {
     display: flex;
+    font-weight: 600;
 }
 
 li {
@@ -24,6 +30,7 @@ li {
     padding-top: 50px;
     padding-left: 10rem;
     margin-right: 6rem;
+    font-size: 24px;
 }
 
 a {
@@ -36,6 +43,7 @@ header {
 }
 
 .flex-box {
+    padding: 6em;
     background: #1f2937;
     color: #e5e3eb;
 }
@@ -51,9 +59,14 @@ header {
     display: flex;
     background: #E5E7EB;
     justify-content: center;
-    padding: 25px;
+    padding: 150px;
+    font-size: 36px;
+    font-weight: 500;
 }
 
+.chaac {
+    padding-top: 200px;
+}
 
 .flex-box3 {
     background: white;
@@ -67,8 +80,16 @@ img {
 
 .sign-up-box {
     background: #3882f6;
-    border-radius: 25px;
-    padding: 1rem;
+    border-radius: 6px;
+    padding-top: 50px;
+    padding-left: 100px;
+    text-align: left;
+    color: #e5e3eb;
+}
+
+.botbut {
+    text-align: center;
+    padding-bottom: 50px;
 }
 
 button {
